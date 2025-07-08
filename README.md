@@ -1,7 +1,7 @@
 <img src="https://media1.tenor.com/m/FbBpFEF4_uYAAAAC/yone.gif" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Yean 👋🏼 :
-# And i love to learn some new things to solve the problem : 
+<!--# And i love to learn some new things to solve the problem -->
 <!-- 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i> -->
 
 # 💻 Tech Stack:
