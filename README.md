@@ -1,4 +1,4 @@
-<img src="furinaBannerGithub.gif" alt="GitHub Banner" width="100%" />
+<img src="https://media1.tenor.com/m/FbBpFEF4_uYAAAAC/yone.gif" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Yean 👋🏼 :
 # And i love to learn some new things to solve the problem : 
