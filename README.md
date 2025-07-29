@@ -1,11 +1,11 @@
 <img src="https://media1.tenor.com/m/FbBpFEF4_uYAAAAC/yone.gif" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Yean 👋🏼 :
+# Hi there!, I'm Yean 👋🏼 :
 
 # 💻 Tech stuff :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,cpp,cloudflare,css,discord,figma,firebase,github,java,nextjs,postman,spring,vscode" />
   </a>
 </p>
 
