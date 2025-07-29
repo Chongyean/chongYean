@@ -1,8 +1,7 @@
 <img src="https://media1.tenor.com/m/FbBpFEF4_uYAAAAC/yone.gif" alt="GitHub Banner" width="100%" />
 
 # Hi there!, I'm Yean 👋🏼 :
-
-# 💻 Tech stuff :
+Im Yean (KATH) - I'm a Student at RUPP amajor ITE and im into software engineer stuff like AI tools or somethings it all quite interest for me ngl at on it the designing too, and build some thriving things when it came to my mind!
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,cpp,cloudflare,css,discord,figma,firebase,github,java,nextjs,postman,spring,vscode" />
