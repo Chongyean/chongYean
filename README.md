@@ -1,6 +1,6 @@
 <img src="https://media1.tenor.com/m/FbBpFEF4_uYAAAAC/yone.gif" alt="GitHub Banner" width="100%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 # Hi there!, I'm Yean 👋🏼 :
 I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer stuff like AI tools or somethings it all quite interest for me ngl add on it the designing too, and build some thriving things when it came to my mind!
 <p align="center">
@@ -14,3 +14,5 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chongyean)](https://git.io/streak-stats)
