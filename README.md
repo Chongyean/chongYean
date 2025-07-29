@@ -4,7 +4,7 @@
 I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer stuff like AI tools or somethings it all quite interest for me ngl add on it the designing too, and build some thriving things when it came to my mind!
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cpp,cloudflare,css,discord,figma,firebase,github,java,nextjs,postman,spring,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,cpp,cloudflare,css,discord,figma,firebase,github,java,nextjs,postman,spring,vscode,idea" />
   </a>
 </p>
 
