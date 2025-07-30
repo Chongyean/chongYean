@@ -8,11 +8,13 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
     <img src="https://skillicons.dev/icons?i=git,docker,cpp,cloudflare,css,discord,figma,firebase,github,java,nextjs,postman,spring,vscode,idea" />
   </a>
 </p>
-<div align="center">
+
+<!-- <div align="center">
   <a href="https://streak-stats.demolab.com?user=Chongyean">
     <img src="https://streak-stats.demolab.com?user=Chongyean" alt="GitHub Streak" />
   </a>
-</div>
+</div> -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
