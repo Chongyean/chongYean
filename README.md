@@ -9,6 +9,11 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
   </a>
 </p>
 
+<div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Chongyean)](https://git.io/streak-stats)
+</div>
+
+
  <!--  <div align="center">
   <a href="https://streak-stats.demolab.com?user=Chongyean">
     <img src="https://streak-stats.demolab.com?user=Chongyean" alt="GitHub Streak" />
