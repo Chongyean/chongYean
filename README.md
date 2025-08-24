@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/FbBpFEF4_uYAAAAC/yone.gif" alt="GitHub Banner" width="100%" />
+<img src="YoneBanner.gif" alt="GitHub Banner" width="100%" />
 
 
 # Hi there!, I'm Yean 👋🏼 :
