@@ -25,3 +25,8 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
 </picture>
 
 
+<p align="right">
+  <img src="pc.gif" alt="PC Banner" width="300">
+</p>
+
+
