@@ -9,13 +9,10 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
     <img src="https://skillicons.dev/icons?i=git,docker,cpp,cloudflare,css,discord,figma,firebase,github,java,nextjs,postman,spring,vscode,idea,notion" />
   </a>
 </p> -->
+
+
 [![My Skills](https://skillicons.dev/icons?i=git,docker,cpp,cloudflare,css,discord,figma,firebase,github,java,nextjs,postman,spring,vscode,idea,notion)](https://skillicons.dev)
 
- <!--  <div align="center">
-  <a href="https://streak-stats.demolab.com?user=Chongyean">
-    <img src="https://streak-stats.demolab.com?user=Chongyean" alt="GitHub Streak" />
-  </a>
-</div> -->
 
 <!-- <div>
 
@@ -31,7 +28,7 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Chongyean" alt="GitHub Streak" />
   </a>
-  <img src="pc.gif" alt="PC Banner" width="200" />
+  <img src="pc.gif" alt="PC Banner" width="300" style="margin-left:32px;" />
 </div>
 
 
