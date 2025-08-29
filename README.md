@@ -16,24 +16,16 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
     <img src="https://streak-stats.demolab.com?user=Chongyean" alt="GitHub Streak" />
   </a>
 </div> -->
+
+<div>
+
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Chongyean)](https://git.io/streak-stats)
 
 <p align="right">
   <img src="pc.gif" alt="PC Banner" width="300">
 </p>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://streak-stats.demolab.com?user=Chongyean">
-        <img src="https://streak-stats.demolab.com?user=Chongyean" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td>
-      <img src="pc.gif" alt="PC Banner" width="300">
-    </td>
-  </tr>
-</table>
+</div>
 
 
 <picture>
