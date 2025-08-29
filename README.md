@@ -18,6 +18,10 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
 </div> -->
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Chongyean)](https://git.io/streak-stats)
 
+<p align="right">
+  <img src="pc.gif" alt="PC Banner" width="300">
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -25,8 +29,6 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
 </picture>
 
 
-<p align="right">
-  <img src="pc.gif" alt="PC Banner" width="300">
-</p>
+
 
 
