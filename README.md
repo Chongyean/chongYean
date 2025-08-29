@@ -22,6 +22,20 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
   <img src="pc.gif" alt="PC Banner" width="300">
 </p>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://streak-stats.demolab.com?user=Chongyean">
+        <img src="https://streak-stats.demolab.com?user=Chongyean" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <img src="pc.gif" alt="PC Banner" width="300">
+    </td>
+  </tr>
+</table>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
