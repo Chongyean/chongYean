@@ -28,7 +28,7 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Chongyean" alt="GitHub Streak" />
   </a>
-  <img src="pc.gif" alt="PC Banner" width="200" style="margin-left:32px;" />
+  <img src="pc.gif" alt="PC Banner" width="200" style="margin-left:40px;" />
 </div>
 
 
