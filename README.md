@@ -127,8 +127,8 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
   <!-- <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /> -->
 </div>
 
-<!-- ###
-
+ ###
+<!--
 <br clear="both">
 
 <picture>
@@ -136,10 +136,10 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chongyean/Chongyean/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chongyean/Chongyean/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
 
-
-### -->
+### 
 <div align="left">
   <a href="https://open.spotify.com/user/Taing Chongyean">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31afdcj3i3esk7i46lx7wr6ncxlq" alt="Spotify recently played"  />
