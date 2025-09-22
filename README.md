@@ -142,9 +142,6 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
 <div align="left">
   <a href="https://open.spotify.com/user/Taing Chongyean">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31afdcj3i3esk7i46lx7wr6ncxlq" alt="Spotify recently played"  />
-    <div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
   </a>
 </div>
 
