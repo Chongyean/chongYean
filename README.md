@@ -129,13 +129,13 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chongyean/Chongyean/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chongyean/Chongyean/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chongyean/Chongyean/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
