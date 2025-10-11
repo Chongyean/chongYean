@@ -25,7 +25,7 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
 </picture> -->
 
 
-<h3 align="center">I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer, i like AI tools and technical things it all interest for me ngl add on it the designing too, and thriving to build somethings when it came to my mind!</h3>
+<h3 align="center">I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into Computer stuff all of them and game too, i like AI tools and technical things it all interest for me ngl add on it the designing too, and thriving to build somethings when it came to my mind!</h3>
 
 ###
 
