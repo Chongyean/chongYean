@@ -31,7 +31,7 @@ I'm Yean (KATH) - I'm a Student at RUPP major ITE and im into software engineer,
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chongyean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <<img src="https://streak-stats.demolab.com?user=Chongyean&theme=nightfox&border_radius=4" alt="GitHub Streak" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Chongyean&theme=nightfox&border_radius=4" alt="GitHub Streak" height="150" alt="streak graph"  />
 </div>
 
 ###
