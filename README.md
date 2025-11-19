@@ -15,16 +15,16 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.youtube.com/@taingchongyean" target="_blank">
+  <a href="https://www.youtube.com/@taingchongyean" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
-  <a href="https://www.instagram.com/tchong_yean/" target="_blank">
+  <a href="https://www.instagram.com/tchong_yean/" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/channels/@tchong_yean" target="_blank">
+  <a href="https://discord.com/channels/@tchong_yean" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://t.me/T_Chongyean" target="_blank">
+  <a href="https://t.me/T_Chongyean" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
@@ -101,7 +101,7 @@
 
 <br clear="both">
 
-<img align="right" height="290" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
